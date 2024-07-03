@@ -1,0 +1,298 @@
+
+
+
+
+
+
+.all div{
+  height: 200px;
+  width: 200px;
+  border: solid orange;
+  border-radius: 30px;
+  
+  
+  }
+  .all{  text-align: center;
+     border: solid;
+     height: 900px;
+     width: 900px;
+     margin: auto;
+     margin-bottom: 20px;
+border-color: red;
+  }
+  .two{
+  background-color: blue;
+  text-align: center;
+  margin: 30px;
+  }
+  
+  .one{
+  background-color: aqua;
+  position:absolute;
+  margin-top: -109px;
+  margin-left: 30px;
+  }
+  
+  .b{
+     background-color: rgb(164, 135, 16);
+     margin: 30px;
+  }
+  .four{background-color: blueviolet;
+     margin: 30px;}
+  
+
+.qa div{
+
+width: 150px;
+height: 150px;
+top: ;
+margin-bottom: 4px;
+border-radius: 30px;
+text-align: center;
+margin-left: 20px;
+
+}
+.qa{
+border: solid red;
+height: 700px;
+width: 600px;
+margin: auto;
+
+}
+.one1{
+position: relative;
+left: -90px;
+background-color: aqua;
+}
+.two2{
+  background-color: blue;
+}
+
+.there2{
+
+background-color: chocolate;
+
+}
+.four2{
+  background-color: blueviolet;
+}
+
+
+.aa div{
+
+height: 150px;
+width: 150px;
+border: solid black;
+position: relative;
+display: inline-block
+
+}
+.aa{
+  height: 475px;
+  width: 475px;
+  border: solid white;
+  margin: auto;
+}
+
+.div1{
+
+border: solid;
+height:200px ;
+width: 300px;
+
+
+}
+
+.div0{
+  border: ;
+  height: 500px;
+  width: 700px;
+  display: inline-block;
+  background-color: aliceblue;
+}
+
+
+.div0 div{
+  border: solid rgb(255, 255, 255);
+  display: inline-block;
+  border-color: black;
+  background-color: aliceblue;
+}
+.div2{
+
+
+position: absolute;
+margin-top: 150px;
+height: 300px;
+width: 300px;
+margin-left: -90px;
+background-color: aliceblue;
+}
+.div3{
+
+  height: 500px;
+  width: 201px;
+  margin-top: 10px;
+  position: absolute;
+z-index: 4;
+  margin-left: 250px;
+  background-color: aliceblue;
+}
+.div4{
+  position: absolute;
+margin-top: 400px;
+
+border: solid;
+height: 200px;
+width: 700px;
+margin-left: -300px;
+background-color: aliceblue;
+}
+
+.divvv div{margin: auto;
+display: inline-block;
+text-align: center;
+margin: 2px;
+
+}
+.divvv{
+
+  height: 200%;width: 100%;
+}
+.divv1{
+background-color: blue;
+height: 40px;
+width: 100%;
+
+
+}
+
+.divv2{
+
+height: 20%;
+width: 40%;
+background-color: greenyellow;
+
+padding-top: 530px;
+
+
+}
+.divv3{
+
+  height: 80px;
+  width: 700px;
+  background-color: rgb(218, 184, 31);
+padding-top: 450px;
+padding-right: 100px;
+
+
+}
+
+
+.divv3 div{
+position: absolute;
+margin-top: -150px;
+  height: 100px;
+  width: 100px;
+  background-color: antiquewhite;
+  margin: 3px;
+}
+
+
+.divv5{
+  background-color: red;
+  height: 40px;
+  width: 100%;
+margin-bottom: -300px; 
+position: absolute;
+
+}
+.ar li:nth-child(even){background-color: rgb(21, 56, 197);
+border: solid 2px;
+}
+
+.ar li:nth-child(odd){
+  background-color: green;
+}
+.zxc :target{
+  background-color: rgb(194, 75, 36);
+}
+.dddd div{
+display: inline-block;
+background-color: aquamarine;
+height: 200px;
+width: 280px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+text-align: center;
+text-size-adjust: 40px
+;
+
+}
+.aaaa{height: 350px;
+  width: 900px;
+  background-color: aliceblue;
+
+}
+
+.asd{
+
+  display: inline-block;
+}
+
+
+
+.zxcv{
+  height: 400px;
+  width: 400px;
+ 
+ 
+
+}
+
+.vcxz{
+  height: 400px;
+  width: 400px;
+}
+
+
+.asd div{display: inline-block;}
+
+.zxcv div{
+
+
+   position: fixed;
+top: 30px;
+    position: sticky;
+  border: 4px solid;
+  background-color: aquamarine;
+  width: 350px;
+  right: 0;
+  top: 0;
+  
+   }
+   .asas{
+    position: sticky;
+top: 30px;
+    position: sticky;
+  border: 4px solid;
+  background-color: aquamarine;
+  width: 400px;
+  right: 0;
+  top: 0;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
